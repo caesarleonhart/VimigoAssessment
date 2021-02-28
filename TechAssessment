@@ -1,0 +1,18 @@
+The following are the user stories:
+A cloud-based software application grew in user traction and the product owner started to ask
+the developers which module and features are most widely used. The product owner needs
+insights about which developed features are the most important to the user and which feature
+may not be as useful as he thought. To properly measure the features’ usage, the product owner
+needs insights per company, per users, per module, and per feature over a daily and monthly
+period.
+
+Requirements:
+1. You are required to propose your solution based on the above user story. It is optional for
+you to propose using diagrams, architecture schema, develop a prototype using Laravel or
+any documents which suits your proposal. If you are providing a working prototype, please
+have your project tracked by Git.
+3. You are encouraged to list out any future recommendations or suggestions on your
+proposal
+4. You have 1 week to complete this assessment.
+
+
