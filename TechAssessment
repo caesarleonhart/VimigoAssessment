@@ -16,3 +16,15 @@ proposal
 4. You have 1 week to complete this assessment.
 
 
+Answer
+
+In order to track the features usage, there is a few third party tools that comes to mind. These are:- 
+
+1. Google Analytics
+2. Crazyegg
+3. Hotjar
+
+Crazyegg and Hotjar is a heatmapping tools where we can see how the user interact on our site though these two tracks only in general. 
+Whereas Google Analytics is a tracking tool where we can track a lot of things based on our configuration.
+
+I would suggest to use Google Analytics to get more in depth measures based on company, user and etc.
